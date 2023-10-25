@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Abdulzy/abdulzy.github.io.git
+	branch = main

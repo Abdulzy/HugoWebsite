@@ -1,0 +1,4 @@
+baseURL = "https://AIsegen.github.io/"
+languageCode = "en- us"
+title = "My Portfolio"
+theme = "Hugo Profile"
