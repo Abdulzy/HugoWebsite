@@ -60,7 +60,7 @@ params:
     intro: "Hi, my name is"
     title: "Abdulrahman."
     subtitle: "I love to create Software"
-    content: "I am a recent computer science graduate with experience as a software developer intern at Audible and a graduate teaching assistant for a Java class, I bring a diverse skillset to the table. With expertise in backend, front-end, and full-stack development, I am well-equipped to tackle complex software challenges and deliver robust, high-quality solutions. I thrive in fast-paced, dynamic environments and am constantly seeking opportunities to learn and grow. I'd love to talk further about my skills and how they can support the growth of your company."
+    content: "I am a recent Masters Graduate of Computer Science , I bring a diverse skillset to the table. With expertise in backend, front-end, and full-stack development, I am well-equipped to tackle complex software challenges and deliver robust, high-quality solutions. I thrive in fast-paced, dynamic environments and am constantly seeking opportunities to learn and grow. I'd love to talk further about my skills and how they can support the growth of your company."
     image: /images/face.png
     bottomImage:
       enable: false
@@ -87,9 +87,9 @@ params:
     title: "About Me"
     image: "/images/face.png"
     content: |-
-      I am a software developer with a passion for Java development. I have a background in computer science , and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [Avolta Inc.](https://www.avoltacanada.com/) in Boston, MA. 
+      I am currently working as a software developer at [Avolta Inc.](https://www.avoltacanada.com/) Remotely. 
 
-      I am currently working on getting AWS Cerified Developer - Associate and Certified Kubernetes Application Developer certificate. Trying to acquire diverese skills to show my drive to always improve myself and my capabilities.
+      I am also working on getting AWS Cerified Developer - Associate and Certified Kubernetes Application Developer certificates. Trying to acquire diverese skills to show my drive to always improve myself and my capabilities.
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
@@ -116,14 +116,14 @@ params:
         company: "Avolta Inc"
         companyUrl: "https://www.avoltacanada.com/"
         date: "Oct 2023 - present"
-        content: "Expected to work with different teams on different projects to help support Avolta as to my best ability."
+        content: "Actively contributing to software development projects, applying coding skills and problem-solving abilities to create efficient and functional solutions."
 
-      - job: "Software Developer Apprentice"
-        company: "Dream Chase Technology"
-        companyUrl: "https://www.dreamchasetechnology.com/"
-        date: "May 2023 - present"
-        content: |
-          Design, execute, and maintain end-to-end, functional, integration and performance tests. Implement server-side features in Java interacting with data in relational SQL databases. Work closely with operations and customer success to ensure seamless deployments and high product reliability metrics in the field.
+      # - job: "Software Developer Apprentice"
+      #   company: "Dream Chase Technology"
+      #   companyUrl: "https://www.dreamchasetechnology.com/"
+      #   date: "May 2023 - present"
+      #   content: |
+      #     Design, execute, and maintain end-to-end, functional, integration and performance tests. Implement server-side features in Java interacting with data in relational SQL databases. Work closely with operations and customer success to ensure seamless deployments and high product reliability metrics in the field.
 
       - job: "Graduate Teaching Assistant"
         company: "Northeastern University"
@@ -227,14 +227,14 @@ params:
         image: /images/projects/portfolio.png
         featured:
           name: Demo
-          link: https://AIsegen.github.io/
+          link: https://abdulzy.github.io/
         badges:
           - "Hugo"
           - "Bootstrap"
           - "Javascript"
         links:
           - icon: fab fa-github
-            url: https://github.com/Abdulzy/AIsegen.github.io
+            url: https://github.com/Abdulzy/abdulzy.github.io
 
       - title: Twitter Clone
         content: A clone of twitter, including the following funtionality but not limited to posting, bookmarking, liking, and bookmarking tweets.
